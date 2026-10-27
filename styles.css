@@ -26,12 +26,17 @@ footer {
 }
 
 #tituloPrincipal {
+    font-size: 200%;
+}
+
+h1 {
     background-color: lightgreen;
 }
 
 h2 {
     font-style: oblique;
     text-align: center;
+    font-size: 80%;
     border: 2px, solid, red; 
     width: 100%;
 }
@@ -39,4 +44,12 @@ h2 {
 #imagemCentralizada {
     display: block;
     margin: 0 auto;
+}
+
+.intelectual {
+    background-color: aliceblue;
+}
+
+.esportivo {
+    background-color: red;
 }
