@@ -31,6 +31,7 @@ footer {
 
 h1 {
     background-color: lightgreen;
+    color: brown;
 }
 
 h2 {
@@ -39,6 +40,7 @@ h2 {
     font-size: 80%;
     border: 2px, solid, red; 
     width: 100%;
+    color: blue;
 }
 
 #imagemCentralizada {
